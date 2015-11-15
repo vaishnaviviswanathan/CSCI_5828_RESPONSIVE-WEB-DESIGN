@@ -1,7 +1,8 @@
 
-(####Introduction
+####Introduction
 
-(http://cdn2.hubspot.net/hub/53/file-2542784971-jpeg/web-design.jpeg?t=1447612633206&width=761`)
+<img src="http://cdn2.hubspot.net/hub/53/file-2542784971-jpeg/web-design.jpeg?t=1447612633206&width=761`" height="150" width="910"></img>
+
 
 <p>Responsive Web Design is designing web browser in such a way that the the web browser content display design can adapt to the display area of the device it is being viewed on. Responsive Web Design is combination of an artistic architecture and an efficient adaptable design approach to Web Design. With increase is manufacturing and variety of hand-held, web surfing on such devices becomes increasingly common. </p>
 
