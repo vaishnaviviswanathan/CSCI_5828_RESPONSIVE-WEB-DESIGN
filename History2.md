@@ -1,4 +1,4 @@
-#####The Early Days
+####The Early Days
 
 The initial browsers were very text heavy. Till the year 1993 none of the browsers supported images. They could only support 16 colors. The standard resolutiion of the monitor was 640 x 480 x 16 color.
 Nexus was one of the first web browser. 
