@@ -10,7 +10,7 @@
 
 - This is the reason why we need our website to be “responsive” so that the website can be viewed well in varying screen dimensions and orientations.
 
-Let us see the history of web design and how the growth of technology utimately created a neccesity of having a Responsive Web Design Pattern
+Let us see the history of web design and how the growth of technology utimately created a neccesity of having a Responsive Web Design and Development
 
 [<img align="left" alt="left" src="https://cloud.githubusercontent.com/assets/14101008/11165526/091b197c-8acf-11e5-8ac1-3a1e5042ed78.png" width="70" height="70"></img>](https://github.com/vaishnaviviswanathan/CSCI_5828_RESPONSIVE-WEB-DESIGN/blob/master/1.md)
 [<img align="right" alt="right" src="https://cloud.githubusercontent.com/assets/14101008/11165527/0a4289a2-8acf-11e5-8378-c5e3a55ab4dc.png" width="70" height="70"></img>](https://github.com/vaishnaviviswanathan/CSCI_5828_RESPONSIVE-WEB-DESIGN/blob/master/History1.md)
