@@ -1,4 +1,4 @@
-###Media Queries:
+###Media Queries
 <p>Media queries help in changing CSS properties based on several criteria:</p>
 <p>•	Width and height of the viewport and the device</p>
 <p>•	Orientation(landscape or portrait)</p>
