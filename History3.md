@@ -1,6 +1,6 @@
 ####Foundations of Web Designing
 
-+ Mosaic was the first web browser that displayed images along with the text. It was also established a layout pattern that is till date used by web browsers. Then came Netscape Navigator, a very powerful browser. Till Microsoft came up with Internet Explorer as a free software with Windows, Netscaped was the most preferred browser. 
++ Mosaic was the first web browser that displayed images along with the text. It was also established a layout pattern that is till date used by web browsers. Then came Netscape Navigator, a very powerful browser. Till Microsoft came up with Internet Explorer as a free software with Windows, Netscape Navigator was the most preferred browser. 
 
 + When HTML was born, website designing became a very popular field in Software Engineering. The World Wide Web Consortium(W3C) established a set of priniciples and compponents to standardize the Web. 
 
