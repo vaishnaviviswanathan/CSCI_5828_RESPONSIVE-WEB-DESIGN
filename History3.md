@@ -12,4 +12,4 @@
 
 + Further innovation led to the incorportating animation, splash pages, and video content on Webpages. 
 
-+ In the present the focus has been shifted to a minimalistic
++ In the present the focus has been shifted to a minimalistic approach that has simple elements, typography and flat elements. 
