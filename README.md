@@ -6,8 +6,10 @@
 
 #### TEAM MEMBERS
 
-##### [Ashik Imran Akbar Basha](https://github.com/ashikimran)
-##### [Harini Iyer](https://github.com/hariniiyer)
+##### + [Ashik Imran Akbar Basha](https://github.com/ashikimran)
+##### + [Harini Iyer](https://github.com/hariniiyer)
+##### + [Vaishnavi Viswanathan](https://github.com/vaishnaviviswanathan)
+
 
 <img src="https://cloud.githubusercontent.com/assets/14101008/11165529/0b8588aa-8acf-11e5-8f38-dfbac3545452.PNG" height="150" width="910"></img>
 
