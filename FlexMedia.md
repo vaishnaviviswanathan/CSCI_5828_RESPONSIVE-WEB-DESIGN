@@ -1,9 +1,9 @@
 ###Flexible Media
-<p>Images, videos and media need to be scalable as per the viewports.
+<p>Images, videos and other media need to be scalable as per the viewports.
 To make the media fit to the viewport, one way is to set the <code>max-width</code>
 property to 100%. This forces the image to match the width of the container. 
 Modern browsers have evolved so much such that images are resized proportionally ie.
-when the container and the image are resized, the aspect ration remains intact. </p>
+when the container and the image are resized, the aspect ratio remains intact. </p>
 
 <pre><code>img, video, canvas {
   max-width: 100%;
