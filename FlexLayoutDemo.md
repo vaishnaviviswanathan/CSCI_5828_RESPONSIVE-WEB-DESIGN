@@ -29,21 +29,7 @@ aside {
 <p><b>Output for fixed layout</b></p>
 <img src=https://cloud.githubusercontent.com/assets/14301140/11171945/40c61e44-8bba-11e5-9cf6-7da85b2493e9.JPG></img>
 
-<p><b>CSS for flexible layout</b></p>
-<pre><code> 
-section,
-aside {
-  margin: 1.858736059%; /*  10px ÷ 538px = .018587361 */
-}
-section {
-  float: left;
-  width: 63.197026%;    /* 340px ÷ 538px = .63197026 */   
-}
-aside {
-  float: right;
-  width: 29.3680297%;  /* 158px ÷ 538px = .293680297 */
-}
-</pre></code>
+
 
 
 
