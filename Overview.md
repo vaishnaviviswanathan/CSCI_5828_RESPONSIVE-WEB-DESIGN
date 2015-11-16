@@ -1,6 +1,6 @@
 ### Overview
 
-<img src="http://netdna.webdesignerdepot.com/uploads/2015/03/featured.png" width=500><align="center"></align></img>
+<img src="http://netdna.webdesignerdepot.com/uploads/2015/03/featured.png" width=1500><align="center"></align></img>
 
 + [Introduction](https://github.com/vaishnaviviswanathan/CSCI_5828_RESPONSIVE-WEB-DESIGN/blob/master/Introduction.md)
 + [Evolution of Web Design](https://github.com/vaishnaviviswanathan/CSCI_5828_RESPONSIVE-WEB-DESIGN/blob/master/History1.md)
