@@ -1,4 +1,4 @@
-###Benefits and Issues:
+###Benefits and Issues
   <p>Applying the concept of a flexible layout to every part of a grid will make it completely dynamic. 
 However, when we keep scaling the browser viewport to smaller degrees, the columns may become too 
 small to display content. Text can become unclear and the layout can start breaking.
