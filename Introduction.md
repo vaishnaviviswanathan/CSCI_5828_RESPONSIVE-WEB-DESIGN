@@ -8,7 +8,7 @@
 
 <p>The underlying motivation to develop such web browser is to make sites look great across the dozens of devices in use today. Also, some responsive web design patterns are such so as to accomodate any changes in the devices or their display sizes that may happen in the future.  The content of a website must reflow to adjust changes in the viewing size of a device dynamically. The idea is to "Think Responsively".</p>
 
-<p><b><i>Responsive Web Design can find middle ground in the argument between Designers Learning to Code and Developers Learning to Design.</i></b></p>
+<p><b><i>Responsive Web Design can find a middle ground in the argument between Designers Learning to Code and Developers Learning to Design.</i></b></p>
 
 
 <p>It is annoying for any user to keep scrolling zooming on a website while viewing it on devices other than the one the browser was designed for. The mobile market is growing on an exponential scale. If a website is not developed in accordance with the mobile viewing constraints, it is very likely that most users will stop using it. </p>
