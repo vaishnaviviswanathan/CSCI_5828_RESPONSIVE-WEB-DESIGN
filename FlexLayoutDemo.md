@@ -26,6 +26,9 @@ aside {
 }
 </pre></code>
 
+<p><b>Output for fixed layout</b></p>
+<img src=https://cloud.githubusercontent.com/assets/14301140/11171945/40c61e44-8bba-11e5-9cf6-7da85b2493e9.JPG></img>
+
 <p><b>CSS for flexible layout</b></p>
 <pre><code> 
 section,
@@ -41,5 +44,7 @@ aside {
   width: 29.3680297%;  /* 158px ÷ 538px = .293680297 */
 }
 </pre></code>
+
+
 
 
