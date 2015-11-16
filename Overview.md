@@ -2,8 +2,8 @@
 
 <img src="http://netdna.webdesignerdepot.com/uploads/2015/03/featured.png" width=300><align="center"></align></img>
 
-<p>Introduction</p>
-<p>Evolution of Web Design</p>
++ [Introduction](https://github.com/vaishnaviviswanathan/CSCI_5828_RESPONSIVE-WEB-DESIGN/blob/master/Introduction.md)
++ [Evolution of Web Design](https://github.com/vaishnaviviswanathan/CSCI_5828_RESPONSIVE-WEB-DESIGN/blob/master/Approach.md)</p>
 <p>Design Patterns</p>
 <p>Techniques</p>
 
