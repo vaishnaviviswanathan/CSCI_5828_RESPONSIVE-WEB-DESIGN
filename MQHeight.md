@@ -1,4 +1,4 @@
-###Height and width:
+###Height and width
  <p>The height and width of the viewport can be found by using the <code>height</code> and <code>width</code>, 
  media features. 
  Each of these media features can be prefixed with the <code>min</code> or <code>max</code> qualifiers to obtain 
