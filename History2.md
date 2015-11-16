@@ -8,7 +8,7 @@ It was designed in the 90s and this is how it looked :
 <img src="http://digital-archaeology.org/wp-content/uploads/2014/03/NexusDemo_023.png" height = 450></img>
 
 
-As we see, it is a very plain interface. This was the browser before the no GUI era. It was initially know was WorldWideWeb but was later renamed as Nexus. 
+As we see, it is a very plain interface. This was the browser before the no GUI era. It was initially known as WorldWideWeb but was later renamed as Nexus. 
 
 
 [<img align="left" alt="left" src="https://cloud.githubusercontent.com/assets/14101008/11165526/091b197c-8acf-11e5-8ac1-3a1e5042ed78.png" width="70" height="70"></img>](https://github.com/vaishnaviviswanathan/CSCI_5828_RESPONSIVE-WEB-DESIGN/blob/master/History1.md)
