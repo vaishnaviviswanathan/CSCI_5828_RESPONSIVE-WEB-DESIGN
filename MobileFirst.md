@@ -4,7 +4,7 @@ that stresses accessibilty of content and functionality to all browsers.
 It emphasizes using smaller viewports as the default styles and then use
 media queries to add styles as the viewport grows. This is because mobile 
 environments are much more hazier and restrictive than desktop environments.
-Additionally, the number of variables in mobile environments are greater.
+Additionally, the number of variables in mobile environments is greater.
 Scaling up from mobile to  desktop  ensures that content and functionality are preserved since the screen size and connection speed increase. Scaling down from desktop to mobile can result in loss of those characteristics as we may cram it in a mobile context. A user who commonly uses a 
 mobile device need not have to load for desktop and then reload again for
 mobile devices. Bandwidth is also saved in this case and download of unnecessary media assets are avoided. </p>
