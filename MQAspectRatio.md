@@ -1,4 +1,4 @@
-###Aspect Ratio Feature:
+###Aspect Ratio
 <p>The <code>aspect-ratio</code> and <code>device-aspect-ratio</code> features specify the width/height pixel 
 ratio of the targeted rendering area ie. the output device. The min and max qualifiers can be use to set thresholds 
 here as well. The value for the aspect ratio is specified by two integers w and h separated by a forward
