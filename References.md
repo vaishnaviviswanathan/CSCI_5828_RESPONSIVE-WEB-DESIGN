@@ -32,6 +32,8 @@
 
 + http://bradfrost.com/blog/web/mobile-first-responsive-web-design/
 
++ http://alistapart.com/article/responsive-web-design
+
 + http://learn.shayhowe.com/advanced-html-css/responsive-web-design/
 
 
