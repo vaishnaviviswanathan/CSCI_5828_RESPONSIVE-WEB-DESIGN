@@ -27,5 +27,10 @@ https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
 
 https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns/off-canvas?hl=en
 
+https://en.wikipedia.org/wiki/Responsive_web_design
+
+http://bradfrost.com/blog/web/mobile-first-responsive-web-design/
+
+http://learn.shayhowe.com/advanced-html-css/responsive-web-design/
 
 
