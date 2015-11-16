@@ -6,4 +6,10 @@
 
 + After this period, came in a dash of colors and the best resolution now became 800 x 600 x 256 colors. Fonts and buttons were incorporated in Web Designing. Opera Browser, Internet Explorer and Netscape Navigator were the preferred browsers. The colors used in the design were very flasy. Mostly primary colors were preferred. 
 
-As content increased, browsers were designed to 
++ As content increased, browsers were designed with emphasis on menus and navigation. 
+
++ Different languages such as PHP, JavaScript, CSS, ASP came in to picture. 
+
++ Further innovation led to the incorportating animation, splash pages, and video content on Webpages. 
+
++ In the present the focus has been shifted to a minimalistic
