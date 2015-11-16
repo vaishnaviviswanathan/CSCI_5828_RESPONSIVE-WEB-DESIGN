@@ -11,7 +11,7 @@
 ##### + [Vaishnavi Viswanathan](https://github.com/vaishnaviviswanathan)
 
 
-<img src="http://netdna.webdesignerdepot.com/uploads/2015/03/featured.png" align="center"></img>
+<img src="http://netdna.webdesignerdepot.com/uploads/2015/03/featured.png" align="center" width=300></img>
 
 
 
