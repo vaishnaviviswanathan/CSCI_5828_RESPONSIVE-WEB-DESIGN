@@ -3,7 +3,7 @@
 ## PRESENTATION 3
 
 ### RESPONSIVE-WEB-DESIGN
-<img src="http://netdna.webdesignerdepot.com/uploads/2015/03/featured.png"></img>
+<img src="http://webdesigncampus.yolasite.com/resources/responsive-web-design.jpeg?timestamp=1392388631829"></img>
 #### TEAM MEMBERS
 
 ##### + [Ashik Imran Akbar Basha](https://github.com/ashikimran)
