@@ -1,4 +1,4 @@
-###Example for Media Queries:
+###Example for Media Queries
 <p>Consider the example mentioned in flexible layouts section. Sometimes, the aside tab can become
 too small in smaller viewports as follows:</p>
 <img src = https://cloud.githubusercontent.com/assets/14301140/11173016/e95065ac-8bcd-11e5-8751-933d4aefe4cd.JPG>
