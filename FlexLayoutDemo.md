@@ -1,4 +1,4 @@
-###Example:
+###Example
 <p>The HTML and CSS snippet for a flexible layout would be as follows:</p>
 <p><b>HTML</b></p>
 <pre><code> 
