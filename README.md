@@ -11,7 +11,7 @@
 ##### + [Vaishnavi Viswanathan](https://github.com/vaishnaviviswanathan)
 
 
-<img src="http://webdesigncampus.yolasite.com/resources/responsive-web-design.jpeg?timestamp=1392388631829" height="150" width="910"></img>
+<img src="http://webdesigncampus.yolasite.com/resources/responsive-web-design.jpeg?timestamp=1392388631829"></img>
 
 
 
