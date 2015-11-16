@@ -1,4 +1,4 @@
-###Breakpoints:
+###Breakpoints
 <p>The point at which a site changes its layout is called a breakpoint.
 Picking breakpoints based on device will cause severe maintenance issues.
 Moreover, new devices are constantly released. It is practically hard
