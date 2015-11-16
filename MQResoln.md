@@ -1,4 +1,4 @@
-###Resolution feature:
+###Resolution 
 <p>The resolution media feature specifies 
 the resolution of the output device in pixel density as dots per inch or dpi. 
 Min and max qualifiers can be used. Dots per pixel (1.5dppx), dots per centimeter (120dpcm) 
