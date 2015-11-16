@@ -4,8 +4,8 @@
 
 Some common Responsive Web Design Patterns are :
 
-+ Column Drop Pattern
 + Mostly Fluid Pattern
++ Column Drop Pattern
 + Layout Shifter Pattern
 + Off Canvas Pattern
 
