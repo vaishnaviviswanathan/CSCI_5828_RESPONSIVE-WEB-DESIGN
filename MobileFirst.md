@@ -1,4 +1,4 @@
-###Mobile First:
+###Mobile First Approach
 <p> Mobile first approach involves progressive enhancement
 that stresses accessibilty of content and functionality to all browsers.
 It emphasizes using smaller viewports as the default styles and then use
